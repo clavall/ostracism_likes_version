@@ -1,5 +1,3 @@
-# ostracism_likes_version
-
 Social Media Ostracism
 ======================
 
